@@ -1,0 +1,49 @@
+# Belfry Software
+
+> Belfry is the all-in-one Security Guard Management System (SGMS) built for security companies of all sizes. It unifies scheduling, GPS timekeeping, field operations, payroll & HR, and billing into a single platform — eliminating spreadsheets, disconnected tools, and manual back-office work.
+
+Belfry is headquartered at 1239 Broadway, Suite 703B, New York, NY 10001. It raised a $12M Series A to accelerate growth. The platform is used by hundreds of security businesses across the United States and is available on Web, iOS, and Android.
+
+## Product
+
+- [Home](https://www.belfrysoftware.com/): Platform overview, key metrics (+8 hrs saved/week on payroll and scheduling, -60% unbilled OT), customer testimonials, FAQs, and comparison vs. alternatives.
+- [Scheduling](https://www.belfrysoftware.com/scheduling): Smart shift matching, fill shifts fast, overtime cost controls, automated schedule updates and notifications.
+- [Timekeeping](https://www.belfrysoftware.com/timekeeping): Electronic timesheets auto-submitted at shift end, GPS-synced approvals, officer overlap and OT flagging, automated break alerts and compliance.
+- [Operations](https://www.belfrysoftware.com/operations): Real-time client portals, live officer activity via shift drilldown, NFC/geofence checkpoint patrol tours, custom patrol workflows, fast dispatch.
+- [Payroll & HR](https://www.belfrysoftware.com/payroll-hr): Payroll synced directly to timesheets, custom pay rates and deductions, next-day direct deposit, ACA compliance, IRS 1094/1095-C e-filing, benefits management, tax compliance across all 50 states.
+- [Billing](https://www.belfrysoftware.com/billing): Automated invoice distribution, ACH and credit card payment processing, OT billing and rate multiplier adjustments, profitability reports and dashboards.
+
+## Solutions by Role
+
+- [For Owners](https://www.belfrysoftware.com/icp-landing-pages/owner): Real-time cost forecasting, site-specific payroll, automated compliance alerts, live dashboards.
+- [For Operations Managers](https://www.belfrysoftware.com/icp-landing-pages/operations): Real-time client portals, live shift tracking, two-way messaging and alerts, patrol workflows and fast dispatch.
+- [For Payroll & HR Admins](https://www.belfrysoftware.com/icp-landing-pages/payroll-hr): Payroll synced to timesheets, fast deposits and approvals, ACA compliance and tax filing, employee self-enrollment.
+
+## Pricing & Plans
+
+- [Plans](https://www.belfrysoftware.com/plans): Per-user pricing that scales with employee count. No minimum employee requirement, though companies with 10+ officers benefit most. Custom pricing available via demo.
+
+## Company
+
+- [About](https://www.belfrysoftware.com/about): Belfry's mission is to be the operating system for modern security companies. Trusted by hundreds of security firms across the US.
+- [Careers](https://www.belfrysoftware.com/careers): Open roles at Belfry.
+- [Demo](https://www.belfrysoftware.com/demo): Book a personalized product demo.
+- [Login](https://app.belfrysoftware.com/): Customer login portal.
+
+## Resources
+
+- [Blog](https://www.belfrysoftware.com/blog): Guides, industry insights, product updates, and operational best practices for security companies.
+- [Customer Stories](https://www.belfrysoftware.com/category/customer-stories): Case studies from security firms using Belfry (Scout Security, GSIS, Semper Secure, SMR Security, Covey Security, and more).
+- [Newsroom](https://www.belfrysoftware.com/category/newsroom): Press releases and media coverage including Belfry's $12M Series A announcement.
+- [Whitepapers](https://www.belfrysoftware.com/category/whitepapers): In-depth guides such as "How to Sell Patrol Services" and "Officer Pay and Labor Compliance Guide for Security Firms".
+
+## Legal
+
+- [Privacy Policy](https://www.belfrysoftware.com/privacy-policy)
+- [Terms of Service](https://www.belfrysoftware.com/terms-of-service)
+
+## Social
+
+- Twitter/X: https://x.com/belfrysoftware
+- LinkedIn: https://www.linkedin.com/company/belfrysoftware/
+- YouTube: https://www.youtube.com/@belfrysoftware

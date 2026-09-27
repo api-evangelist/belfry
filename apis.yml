@@ -1,23 +1,87 @@
 aid: belfry
+
 name: Belfry
-description: 'Belfry is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+
+image: https://cdn.prod.website-files.com/64dd01bc406bf2448a2f2b56/65037007465310f0f8179b6c_Belfry%20Gradient%20Logo%20XXS.png
+
+description: 'Belfry Software provides security guard management software, offering scheduling, timekeeping, operations, payroll, and billing solutions for security companies. Their platform includes AI-driven teammate features, recruiting tools, and on-demand pay for officers, aiming to streamline security operations and improve workforce efficiency.'
+
 url: https://raw.githubusercontent.com/api-evangelist/belfry/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-27 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-09-27'
+
 modified: '2026-09-27'
+
 tags:
-- Company
-apis: []
+- Security
+- Software
+- Scheduling
+- Payroll
+- GuardManagement
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: LLMsTxt
+  url: llms/belfry-llms.txt
+- type: SecurityTxt
+  url: well-known/belfry-status-security.txt
+- type: WellKnown
+  url: well-known/belfry-well-known.yml
+- type: Hosts
+  url: hosts/belfry-hosts.yml
+- type: Vendors
+  url: vendors/belfry-vendors.yml
+- type: StatusPage
+  url: https://status.belfrysoftware.com/
+- type: Newsroom
+  url: https://www.belfrysoftware.com/tag/news
+- type: Login
+  url: https://www.belfrysoftware.com/login
+- type: DomainSecurity
+  url: security/belfry-domain-security.yml
 - type: Website
-  url: https://www.nasdaqprivatemarket.com/
+  url: https://www.belfrysoftware.com
+
+- type: About
+  url: https://www.belfrysoftware.com/about
+- type: Blog
+  url: https://www.belfrysoftware.com/blog
+- type: Pricing
+  url: https://www.belfrysoftware.com/plans
+- type: Demo
+  url: https://www.belfrysoftware.com/demo
+- type: PrivacyPolicy
+  url: https://www.belfrysoftware.com/privacy-policy
+- type: TermsOfService
+  url: https://www.belfrysoftware.com/terms-of-service
+
+apis: []
+
+x-coverage:
+  state: unreadable
+  reason: no-machine-readable-spec
+  detail: Provider's website hosts documentation pages but no OpenAPI or other machine‑readable contract was found.
+  evidence:
+    - url: https://www.belfrysoftware.com/plans
+      status: 200
+  checked: '2026-09-27'
+x-enrichment:
+  date: '2026-09-27'
+  status: enriched
+  artifacts_added: 8
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local
